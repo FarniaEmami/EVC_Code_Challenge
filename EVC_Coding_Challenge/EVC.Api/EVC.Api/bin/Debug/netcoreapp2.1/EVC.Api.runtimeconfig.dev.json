@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Farnia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Farnia\\.nuget\\packages"
+    ]
+  }
+}
